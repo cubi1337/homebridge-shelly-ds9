@@ -30,6 +30,7 @@ For the first generation, see [homebridge-shelly](https://github.com/alexryd/hom
 - [Shelly Pro 2 PM](https://kb.shelly.cloud/knowledge-base/shelly-pro-2pm)
 - [Shelly Pro 3](https://kb.shelly.cloud/knowledge-base/shelly-pro-3-v1)
 - [Shelly Pro 4 PM](https://kb.shelly.cloud/knowledge-base/shelly-pro-4pm)
+- [Shelly Pro Dual Cover PM](https://shelly-api-docs.shelly.cloud/gen2/Devices/Gen2/ShellyProDualCoverPM)
 - [Shelly Pro Dimmer 1PM](https://kb.shelly.cloud/knowledge-base/shelly-pro-dimmer-1pm)
 - [Shelly Pro Dimmer 2PM](https://kb.shelly.cloud/knowledge-base/shelly-pro-dimmer-2pm)
 
